@@ -18,4 +18,5 @@ Download and extract GBDK to a location on your computer. Remember the path of t
 ## How To
 1. Clone this repo
 2. In the **c_cpp_properties.json** change the path so it points to the include folder within your gbdk folder (e.g.: C:/gbdk/include")
-3. Hit **F5** in VS Code to compile and run the project in Emulicous
+3. In Emulicious, go to Tools->Remote Debugging->Enabled and make sure it is checked/enabled.
+3. In VS Code, hit **F5** to compile the project and to run it in Emulicous
